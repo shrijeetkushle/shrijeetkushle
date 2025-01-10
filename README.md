@@ -17,3 +17,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shrijeetkushle&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_Rahulkushle/count.svg" />
+</p>
