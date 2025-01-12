@@ -11,9 +11,12 @@ Welcome to my GitHub profile! I'm passionate about **web development**, **app de
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrijeetkushle&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=shrijeetkushle&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrijeetkushle&theme=radical&layout=compact" alt="Top Languages" />
+  <div>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=shrijeetkushle&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img height="150" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=shrijeetkushle&theme=radical" alt="GitHub Streak" />
+  </div>
+  <br />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrijeetkushle&theme=radical&layout=compact" alt="Top Languages" />
 </div>
 
 ---
