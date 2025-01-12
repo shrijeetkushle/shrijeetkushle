@@ -5,10 +5,9 @@
 ### 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=shrijeetkushle&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=shrijeetkushle&theme=radical"/>
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrijeetkushle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=shrijeetkushle&theme=radical"/>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shrijeetkushle&theme=radical&no-frame=false&no-bg=false&margin-w=4)
