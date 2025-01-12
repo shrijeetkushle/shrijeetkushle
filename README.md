@@ -6,6 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shrijeetkushle&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shrijeetkushle&theme=dark&hide_border=false)<br/>
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=shrijeetkushle&theme=radical"/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrijeetkushle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -17,6 +18,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shrijeetkushle&icon=0&color=0)](https://visitcount.itsvg.in)
+## Visitor count
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_shrijeetkushle/count.svg" />
