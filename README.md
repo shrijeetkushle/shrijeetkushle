@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about **web development**, **app de
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<div style="text-align: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=shrijeetkushle&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </div>
 
