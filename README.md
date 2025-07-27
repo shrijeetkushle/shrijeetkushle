@@ -38,6 +38,8 @@ Welcome to my GitHub profile! I'm passionate about **web development**, **app de
 <p align="center">
   <strong>Visitor Count</strong><br>
   <img src="https://profile-counter.glitch.me/shrijeetkushle/count.svg" alt="Visitor Count" />
+  
+  ![](https://komarev.com/ghpvc/?username=esin)
 </p>
 <p align="center">
 <img src="https://github.com/shrijeetkushle/shrijeetkushle/blob/output/github-contribution-grid-snake-dark.svg">
