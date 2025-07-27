@@ -39,11 +39,12 @@ Welcome to my GitHub profile! I'm passionate about **web development**, **app de
   <strong style="font-size: 18px;">Visitor Count</strong><br><br>
   <img src="https://komarev.com/ghpvc/?username=shrijeetkushle" alt="Visitor Count" />
 </p>
-
+<!--
 <p align="center">
   <strong>Visitor Count</strong><br>
   <img src="https://profile-counter.glitch.me/shrijeetkushle/count.svg" alt="Visitor Count" />
 </p>
+-->
 
 <!--
  <p align="center">
